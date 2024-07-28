@@ -12,10 +12,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  A short summary about Data Mesh
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -25,7 +22,9 @@ css: unocss
 
 # Data Mesh
 
-What is it about and would it make sense for us?
+What is it about?
+
+[Author: Peter Krauß-Hohl](https://pkrauss-hohl.site)
 
 ---
 
@@ -220,14 +219,6 @@ layout: full
 layout: image-right
 image: https://axenehp.com/wp-content/uploads/2020/02/20200204_header.jpg
 ---
-# What next?
 
-* central Adobe data?
-* user interests?
-* RFV?
-* which team should cover which domain?
-* what do we need to make it work?
-* A million things that I'm not aware of
-* ...
+## What is your perspective about it?
 
-## Who wants to join me in the discussion?
